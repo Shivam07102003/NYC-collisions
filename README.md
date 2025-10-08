@@ -81,7 +81,9 @@ Please contact me before suggesting changes.
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.  
+This project is licensed under a **Proprietary License**.  
+© 2025 Shivam Amitbhai Patel. All rights reserved.  
+Unauthorized use, copying, modification, or distribution of this project is strictly prohibited.
 
 ---
 
